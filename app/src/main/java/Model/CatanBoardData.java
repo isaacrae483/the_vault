@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Model;
+package Model;
 
 import java.util.ArrayList;
 import java.util.HashMap;

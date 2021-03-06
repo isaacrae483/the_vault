@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Activities;
+package Activities;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

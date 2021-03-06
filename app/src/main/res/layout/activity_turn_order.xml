@@ -7,7 +7,7 @@
     android:background="#587AA6"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".Activities.DiceActivity">
+    tools:context="Activities.DiceActivity">
 
 
     <TextView

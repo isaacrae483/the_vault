@@ -1,12 +1,12 @@
-package androidteam.cs340.the_vault.Activities;
+package Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.Button;
 
-import androidteam.cs340.the_vault.Presentors.DominionPresenter;
-import androidteam.cs340.the_vault.Presentors.DominionPresenterInterface;
+import Presentors.DominionPresenter;
+import Presentors.DominionPresenterInterface;
 import androidteam.cs340.the_vault.R;
 
 public class Cards extends AppCompatActivity {

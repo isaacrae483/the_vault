@@ -1,13 +1,13 @@
-package androidteam.cs340.the_vault.Presentors;
+package Presentors;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
-import androidteam.cs340.the_vault.Activities.CatanBoardActivity;
-import androidteam.cs340.the_vault.Model.CatanBoardData;
-import androidteam.cs340.the_vault.Model.HexCoordinate;
-import androidteam.cs340.the_vault.Model.Resources;
+import Activities.CatanBoardActivity;
+import Model.CatanBoardData;
+import Model.HexCoordinate;
+import Model.Resources;
 
 public class CatanBoardPresentor {
 

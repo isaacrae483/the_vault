@@ -1,8 +1,8 @@
-package androidteam.cs340.the_vault.Model;
+package Model;
 
 import java.util.ArrayList;
 
-import androidteam.cs340.the_vault.Presentors.TurnOrderPresenterInterface;
+import Presentors.TurnOrderPresenterInterface;
 
 public class TurnOrderData implements TurnOrderPresenterInterface {
     private static TurnOrderData _instance;

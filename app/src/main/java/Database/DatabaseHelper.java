@@ -1,8 +1,7 @@
-package androidteam.cs340.the_vault.Database;
+package Database;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.Build;
 import android.util.Log;
 
 import java.io.File;

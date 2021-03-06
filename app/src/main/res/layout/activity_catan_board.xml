@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#587AA6"
     android:gravity="center"
-    tools:context=".Activities.CatanBoardActivity">
+    tools:context="Activities.CatanBoardActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

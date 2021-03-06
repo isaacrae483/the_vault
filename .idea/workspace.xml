@@ -20,11 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7100782-bbe8-4963-b6ef-5efa362d6d3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/CatanBoardActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/CatanBoardActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/DiceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/DiceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/ExpansionsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/ExpansionsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Activities/TurnOrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Activities/TurnOrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Database/DatabaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Database/DatabaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Database/DominionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Database/DominionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/CatanBoardData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/CatanBoardData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/DOMINION_CARD_NAMES.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/DOMINION_CARD_NAMES.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/DominionData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/DominionData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/DominionDataInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/DominionDataInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/Expansion.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/Expansion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/HexCoordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/HexCoordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/Resources.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/TurnOrderData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/TurnOrderData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Model/TurnOrderDataInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Model/TurnOrderDataInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Presentors/CatanBoardPresentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Presentors/CatanBoardPresentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Presentors/DominionPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Presentors/DominionPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Presentors/DominionPresenterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Presentors/DominionPresenterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Presentors/TurnOrderPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Presentors/TurnOrderPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/androidteam/cs340/the_vault/Presentors/TurnOrderPresenterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/Presentors/TurnOrderPresenterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_catan_board.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_catan_board.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_dice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_dice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_turn_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_turn_order.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +65,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pOcdfhwZykIZFGNvg78TXy99vr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -141,12 +166,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1615059666472">
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1615070241632">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1615059666472" />
+    <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1615070241632" />
+    <state x="590" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1615070219289">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1615070219289" />
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1615070255912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1615070255912" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1615059820987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1615059820987" />
+    <state x="460" y="111" key="Github.UntrackedFilesDialog" timestamp="1615059831783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="111" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615059831783" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1615058575708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -1,12 +1,12 @@
-package androidteam.cs340.the_vault.Model;
+package Model;
 
 import android.content.Context;
 
 import java.util.ArrayList;
 import java.util.Random;
 
-import androidteam.cs340.the_vault.Database.DominionDAO;
-import androidteam.cs340.the_vault.Presentors.DominionPresenterInterface;
+import Database.DominionDAO;
+import Presentors.DominionPresenterInterface;
 
 public class DominionData implements DominionPresenterInterface {
     private static DominionData _instance;

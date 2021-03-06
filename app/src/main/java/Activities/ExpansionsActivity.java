@@ -1,20 +1,14 @@
-package androidteam.cs340.the_vault.Activities;
+package Activities;
 
-import android.content.Context;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.os.PersistableBundle;
 import android.support.annotation.Nullable;
-import android.support.v4.graphics.drawable.DrawableCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Toast;
 import android.widget.Button;
 import android.widget.TextView;
 
-import androidteam.cs340.the_vault.Presentors.DominionPresenter;
+import Presentors.DominionPresenter;
 import androidteam.cs340.the_vault.R;
 
 public class ExpansionsActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Activities;
+package Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,12 +7,11 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 
-import androidteam.cs340.the_vault.Model.HexCoordinate;
-import androidteam.cs340.the_vault.Model.Resources;
-import androidteam.cs340.the_vault.Presentors.CatanBoardPresentor;
+import Model.HexCoordinate;
+import Model.Resources;
+import Presentors.CatanBoardPresentor;
 import androidteam.cs340.the_vault.R;
 
 public class CatanBoardActivity extends AppCompatActivity {

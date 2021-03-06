@@ -1,11 +1,9 @@
-package androidteam.cs340.the_vault.Presentors;
-
-import android.widget.Button;
+package Presentors;
 
 import java.util.ArrayList;
 
-import androidteam.cs340.the_vault.Model.Card;
-import androidteam.cs340.the_vault.Model.DominionData;
+import Model.Card;
+import Model.DominionData;
 
 public class DominionPresenter implements DominionPresenterInterface{
 

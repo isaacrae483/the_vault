@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Model;
+package Model;
 
 public enum Resources {
     WHEAT, WOOD, SHEEP, ORE, BRICK, DESERT, NONE

@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Presentors;
+package Presentors;
 
 import java.util.ArrayList;
 

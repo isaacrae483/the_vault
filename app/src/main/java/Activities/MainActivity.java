@@ -1,12 +1,11 @@
-package androidteam.cs340.the_vault.Activities;
+package Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import androidteam.cs340.the_vault.Model.DominionData;
+import Model.DominionData;
 import androidteam.cs340.the_vault.R;
 
 public class MainActivity extends AppCompatActivity {

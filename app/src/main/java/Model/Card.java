@@ -1,4 +1,4 @@
-package androidteam.cs340.the_vault.Model;
+package Model;
 
 public class Card {
     private String name;
